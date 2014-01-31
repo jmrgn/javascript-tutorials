@@ -17,4 +17,6 @@ http://www.w3schools.com/js/js_examples.asp
         - Write to the document
     3_change_element.html
         - Change an html element
+    4_external_js.html
+        - Reference an external js file
 
